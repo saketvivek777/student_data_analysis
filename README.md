@@ -77,3 +77,4 @@ The dataset includes information on student demographics, academic performance, 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/student-churn-analysis.git
+   student_churn_analysis.ipynb
