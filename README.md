@@ -78,3 +78,12 @@ The dataset includes information on student demographics, academic performance, 
    ```bash
    git clone https://github.com/your-username/student-churn-analysis.git
    student_churn_analysis.ipynb
+## 📚 References 
+  ```bash
+ https://github.com/saketvivek777/student_churn_analysis.ipynb
+   ```
+## 👤 Author
+**Your Name-VIVEK KUMAR SAKET**:
+  ```bash
+LinkedIn:https://www.linkedin.com/in/vivek-saket/
+Email:saketvivek7777@gmail.com
