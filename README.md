@@ -80,7 +80,7 @@ The dataset includes information on student demographics, academic performance, 
    student_churn_analysis.ipynb
 ## 📚 References 
   ```bash
- https://github.com/saketvivek777/student_churn_analysis.ipynb
+   https://github.com/saketvivek777/student_data_analysis/blob/main/%20student_churn_analysis.ipynb
    ```
 ## 👤 Author
 **Your Name-VIVEK KUMAR SAKET**:
