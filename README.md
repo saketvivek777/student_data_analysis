@@ -1,4 +1,4 @@
- # Student Churn Analysis
+## Student Churn Analysis
 
 ## 📑 Project Overview
 
